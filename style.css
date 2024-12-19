@@ -661,6 +661,7 @@ p {
 	}
 	#contact .contact-item .icon img {
 		object-fit: contain;
+		
 	}
 	#contact .contact-item .contact-info {
 		width: 100%;
